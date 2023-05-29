@@ -6,7 +6,7 @@ edition = "2018"
 
 [dependencies]
 actix-web = "2.0.0"
-actix-web-httpauth = { git = "https://github.com/actix/actix-web-httpauth" }
+actix-web-httpauth = "0.8.0"
 chrono = { version = "0.4.10", features = ["serde"] }
 derive_more = "0.99.2"
 diesel = { version = "1.4.2", features = ["postgres","uuidv07", "r2d2", "chrono"] }
