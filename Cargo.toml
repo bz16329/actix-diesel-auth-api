@@ -1,7 +1,7 @@
 [package]
 name = "actix-diesel-auth-api"
 version = "0.1.0"
-authors = ["First Last <no@gmail.com>"]
+authors = ["Marcus Noesen <bz6639081@gmail.com>"]
 edition = "2018"
 
 [dependencies]
